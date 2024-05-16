@@ -9,13 +9,13 @@ It's configured with [SharedPreferences] for persistent state management, [DotEn
 <br />
 <div>
   &emsp;&emsp;&emsp;
-  <img src="https://github.com/Snoowyy/flutter-contact-challenge/main/screenshots/login.png" alt="Login Page" width="330">
+  <img src="https://github.com/Snoowyy/flutter-contact-challenge/blob/main/screenshots/login.png" alt="Login Page" width="330">
   &emsp;&emsp;&emsp;&emsp;
-  <img src="https://github.com/Snoowyy/flutter-contact-challenge/main/screenshots/list.png" alt="Home Page" width="330">
+  <img src="https://github.com/Snoowyy/flutter-contact-challenge/blob/main/screenshots/list.png" alt="Home Page" width="330">
   &emsp;&emsp;&emsp;&emsp;
-  <img src="https://github.com/Snoowyy/flutter-contact-challenge/main/screenshots/add.png" alt="Add Contact Page" width="330">
+  <img src="https://github.com/Snoowyy/flutter-contact-challenge/blob/main/screenshots/add.png" alt="Add Contact Page" width="330">
   &emsp;&emsp;&emsp;&emsp;
-  <img src="https://github.com/Snoowyy/flutter-contact-challenge/main/screenshots/edit.png" alt="Edit Contact Page" width="330">
+  <img src="https://github.com/Snoowyy/flutter-contact-challenge/blob/main/screenshots/edit.png" alt="Edit Contact Page" width="330">
 </div>
 <br />
 
