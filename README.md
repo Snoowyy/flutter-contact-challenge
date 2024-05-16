@@ -41,6 +41,13 @@ And run the code
 flutter run
 ```
 
+Finally, to enter, use the username
+
+```
+username: challenge
+password: challenge_user
+```
+
 # Tests
 
 The test package contains unit tests for almost all components. Be sure to give it a look.
