@@ -27,7 +27,7 @@ It's configured with [SharedPreferences] for persistent state management, [DotEn
 
 The project is configured with a environments variable, the first step before run is copy the `env.example`, remove the `.example` and add into the start `.` remaining like this `.env`.
 
-After this replace the API_HOST value into the `.env ` file with your computer IP.
+After this, replace the `API_HOST` value in the `.env` file with your API Host (if you are running the backend locally use your computer's IP along with port 8000)
 
 After installing the package dependencies with 
 
