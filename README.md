@@ -1,4 +1,4 @@
-# Flutter Template
+# Flutter Project
 
 Flutter contacts challenge project - A simple CRUD app. This app provides a CRUD connected with a API project using Django Rest Framework.
 
